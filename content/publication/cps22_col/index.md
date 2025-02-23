@@ -14,11 +14,11 @@ authors:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2022-01-01T00:00:00Z'
+date: '2023-01-01T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-01-01T00:00:00Z'
+# publishDate: '2020-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Comparative Political Studies*, forthcoming
+publication: In *Comparative Political Studies*, 56(9), 1295-132.
 # publication_short: In *ICW*
 
 abstract: Some politicians engage in relationships with criminal actors in pursuit of mutual interests. How does their rise to power affect state capacity? I focus on one of Colombia’s worst episodes of criminal politics to understand how the victory of paramilitary-friendly mayors impacted subnational taxation. Focusing on close races, I find that the victory of a paramilitary-friendly mayor in 2007 led to a substantive drop in property taxation in subsequent years. I argue that criminal collusion allows politicians and criminals to accumulate wealth and political power, but doing so requires them to deliberately undermine local state institutions. Indeed, the evidence suggests that municipalities governed by paramilitary-friendly politicians experienced a weakening of property rights, the worsening of local judicial institutions, and an alteration of the electoral playing field. Rather than a mere consequence of criminal collusion, state weakening is a politically strategic decision that serves the interests of both criminals and politicians.
@@ -43,7 +43,7 @@ featured: true
 links: 
   - name: Article
     url:  'https://journals.sagepub.com/doi/abs/10.1177/00104140221139380'
-  - name: Replication Material
+  - name: Data
     url:  'publication/cps22_col/cps22col_code.zip'
 
 
