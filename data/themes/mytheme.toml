@@ -3,7 +3,7 @@ name = "mytheme"
 
 [light]
   # Primary
-  primary = "#2B2D42"  # Dark blue-gray for primary elements
+  primary = "#EF233C"  # Dark blue-gray for primary elements
 
   # Menu
   menu_primary = "#EDF2F4"  # Light gray for menu background
@@ -13,7 +13,7 @@ name = "mytheme"
 
   # Home sections
   home_section_odd = "#EDF2F4"  # Light gray for odd sections
-  home_section_even = "#FFFFFF"  # White for even sections
+  home_section_even = "#EDF2F4"  # White for even sections
 
 [dark]
   # Primary
