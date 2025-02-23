@@ -19,8 +19,8 @@ main:
   - name: CV
     url: 'https://drive.google.com/file/d/1XU5ILFmWy5OxfWrbAztlV4GOKG-8A2N3/view'
     weight: 15
-  - name: Publications
-    url: '#publications'
+  - name: Research
+    url: '#research'
     weight: 20
   - name: Working papers
     url: '#wpapers'
