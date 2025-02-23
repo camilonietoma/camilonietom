@@ -20,7 +20,7 @@ main:
     url: 'https://drive.google.com/file/d/1XU5ILFmWy5OxfWrbAztlV4GOKG-8A2N3/view'
     weight: 15
   - name: Research
-    url: '#publication'
+    url: '#publications'
     weight: 20
   - name: Working papers
     url: '#wpapers'
