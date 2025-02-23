@@ -19,8 +19,9 @@ organizations:
 # Interests to show in About widget
 interests:
   - Political and criminal violence
-  - State capacity and rule of law
-  - Politics of land conflict
+  - State building and governance
+  - Post-conflict politics and transitional justice
+  - Latin American politics
 
 # Education to show in About widget
 education:
@@ -59,14 +60,14 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# cv:
-# - icon: cv
-#   icon_pack: ai
-#   link:  https://app.box.com/s/nkikrodx3yscguuwtv1ayndu8u41858w
+cv:
+ - icon: cv
+   icon_pack: ai
+   link:  https://app.box.com/s/nkikrodx3yscguuwtv1ayndu8u41858w
  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'camilo.nieto-matiz@utsa.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -74,8 +75,8 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://app.box.com/s/nkikrodx3yscguuwtv1ayndu8u41858w" "newtab" >}}CV{{< /staticref >}}.
 
 ---
+In many Latin American countries, state institutions operate in regions where violent groups-from insurgencies and self-defense forces to street gangs and drug cartels-compete for authority. What are the causes and consequences of the uneven and contested presence of state institutions during conflict and its aftermath?
 
-I am an assistant professor of political science at the [University of Texas at San Antonio](https://www.utsa.edu). I am also a research affiliate at the [Violence and Transitional Justice Lab](https://kellogg.nd.edu/v-tj-lab-about) at Notre Dame's Kellogg Institute. Prior to coming to UTSA, I was a postdoctoral fellow at the Center for Inter-American Policy and Research (CIPR) at Tulane University. 
+My research explores political violence, state building, criminal governance, and transitional justice, with a regional focus on Latin America. In particular, I investigate why some societies experience major outbreaks of violence, how state institutions and criminal groups operate during periods of conflict, and the mechanisms through which societies address human rights violations and rebuild governance after war.
 
-My main research interests include political economy, political and criminal violence, state capacity, the politics of land, and the intersection of conflict and democracy in Latin America. My current research explores the consequences of land inequality and criminal politics for state capacity, in particular, the state's ability to extract revenue from the population. I am also interested in why and how changes in democratic institutions trigger outbreaks of violent conflict in some cases but in others contribute to contain violence and promote peaceful development. 
-
+I'm an Assistant Professor in the Department of Political Science at the [University of Texas at San Antonio](https://www.utsa.edu), where I also serve as Assistant Director for The UTSA Center for Public Opinion Research. I am also a Research Affiliate at the [Violence and Transitional Justice Lab](https://kellogg.nd.edu/v-tj-lab-about) at Notre Dame's Kellogg Institute. Prior to coming to UTSA, I was a Postdoctoral Fellow at the Center for Inter-American Policy and Research (CIPR) at Tulane University.
