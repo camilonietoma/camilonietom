@@ -3,21 +3,21 @@ name = "mytheme"
 
 [light]
   # Primary
-  primary = "#1565c0"
+  primary = "#2B2D42"  # Dark blue-gray for primary elements
 
   # Menu
-  menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+  menu_primary = "#EDF2F4"  # Light gray for menu background
+  menu_text = "#2B2D42"     # Dark blue-gray for menu text
+  menu_text_active = "#EF233C"  # Bright red for active menu text
+  menu_title = "#2B2D42"    # Dark blue-gray for menu title
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "#EDF2F4"  # Light gray for odd sections
+  home_section_even = "#FFFFFF"  # White for even sections
 
 [dark]
   # Primary
-  primary = "#bbdefb"
+  primary = "#8D99AE"  # Light blue-gray for primary elements
 
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  link = "#EF233C"     # Bright red for links
+  link_hover = "#D90429"  # Darker red for link hover
