@@ -18,7 +18,7 @@ date: '2022-01-01T00:00:00Z'
 # doi: '10.1177/00220027221118813'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-01-01T00:00:00Z'
+# publishDate: '2020-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Conflict Resolution*, forthcoming
+publication: In *Journal of Conflict Resolution*, 67(4), 701-727.
 # publication_short: In *ICW*
 
 abstract: Revenue, especially that from agricultural crops, has been considered fundamental for the development of state capacity. While existing research has mostly focused on dynamics of violence, we know less about the impact of commodities shocks on a key dimension of state power*:* property taxation. In this article, I explore how and why land-based coalitions—alliances between landowners and paramilitaries around the appropriation of land—undermine taxation during civil conflict. Focusing on the expansion of oil palm in Colombia and using a difference-in-differences design, I leverage the international price of oil palm and municipal variation in crop suitability. I find that, in municipalities with higher paramilitary violence and land concentration, the palm shock was associated with lower taxation, outdated cadastral information, and lower land values. This article underscores the deleterious consequences of land inequality for the state’s extractive capacity even in moments of agricultural abundance.
@@ -44,7 +44,7 @@ featured: true
 links:
   - name: Article
     url:  'https://journals.sagepub.com/doi/10.1177/00220027221118813'
-  - name: Replication Material
+  - name: Data
     url:  'publication/jcr22/jcr22_code.zip'
 
 
