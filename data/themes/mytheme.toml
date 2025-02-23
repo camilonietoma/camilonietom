@@ -7,8 +7,8 @@ name = "mytheme"
 
   # Menu
   menu_primary = "#EDF2F4"  # Light gray for menu background
-  menu_text = "#2B2D42"     # Dark blue-gray for menu text
-  menu_text_active = "#EF233C"  # Bright red for active menu text
+  menu_text = "#EF233C"  # Bright red for menu text
+  menu_text_active = "#2B2D42"     # Dark blue-gray for active menu text 
   menu_title = "#2B2D42"    # Dark blue-gray for menu title
 
   # Home sections
