@@ -9,7 +9,7 @@ appearance:
   theme_day: strawberry
   theme_night: strawberry
   font: classic
-  font_size: S
+  font_size: xs
   
 
 # SEO
