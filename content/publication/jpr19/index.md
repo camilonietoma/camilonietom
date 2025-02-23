@@ -17,7 +17,7 @@ date: '2019-01-01T00:00:00Z'
 # doi: '10.1177/0022343318802986'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-01-01T00:00:00Z'
+# publishDate: '2019-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Peace Research* 56(2)
+publication: In *Journal of Peace Research*, 56(2), 264-278. 
 # publication_short: In *ICW*
 
 abstract: What are the subnational variations of violence against voters? This article studies the effect of land concentration on electoral violence in the context of armed conflict in Colombia. My central argument is that electoral violence tends to be higher in municipalities where landowners are a relevant social actor. More concretely, in areas where violent groups dispute territorial control, higher levels of land inequality – a proxy for landowner prominence – have a positive effect on electoral violence. However, actors do not make the simple choice between violence or no violence but may also resort to fraudulent tactics. Because electoral fraud requires greater cooperation and coordination with the state, I argue that violent groups with stronger links to state officials and political elites are more likely to engage in fraudulent tactics compared to anti-government actors. To estimate the effect of land inequality on electoral coercion and fraud, I exploit the levels of soil quality as an instrumental variable for land concentration in Colombia between 2002 and 2011. This article contributes to the literature on the politics of land inequality; elections and electoral manipulation; and the use of violence in democratic settings.
@@ -43,7 +43,7 @@ featured: true
 links:
   - name: Article
     url: 'https://journals.sagepub.com/doi/10.1177/0022343318802986'
-  - name: Replication Material
+  - name: Data
     url:  'publication/jpr19/jpr19_code.zip'
 
 # url_pdf: "publication/jpr19/democracy_countryside.pdf"
