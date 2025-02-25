@@ -17,7 +17,7 @@ name = "mytheme"
 
 [dark]
   # Primary
-  primary = "#8D99AE"  # Light blue-gray for primary elements
+  # primary = "#8D99AE"  # Light blue-gray for primary elements
 
   link = "#EF233C"     # Bright red for links
   link_hover = "#D90429"  # Darker red for link hover
