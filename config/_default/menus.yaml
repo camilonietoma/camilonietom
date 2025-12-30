@@ -1,39 +1,23 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+# Navigation Menu Configuration
+# This file goes in: config/_default/menus.yaml
 
 main:
   - name: Home
     url: '#about'
     weight: 10
- # - name: Posts
- #   url: '#posts'
- #  weight: 20
- # - name: Projects
- #   url: '#projects'
- #   weight: 30
- #  name: Talks
- #  url: '#talks'
- #   weight: 40
-  - name: CV
-    url: 'https://drive.google.com/file/d/1XU5ILFmWy5OxfWrbAztlV4GOKG-8A2N3/view'
-    weight: 15
+  
   - name: Research
-    url: '#publications'
+    url: 'publication/'
     weight: 20
-  - name: Working papers
-    url: '#wpapers'
-    weight: 30  
+  
   - name: Teaching
-    url: '#teaching'
-    weight: 40  
+    url: 'teaching/'
+    weight: 30
+  
+  - name: CV
+    url: 'uploads/resume.pdf'
+    weight: 40
+  
   - name: Contact
     url: '#contact'
     weight: 50
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
