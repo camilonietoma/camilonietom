@@ -1,0 +1,248 @@
+/* Custom Color Palette - Modern Academic Theme */
+/* Replace the default Wowchemy colors */
+
+/* Typography improvements */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #2d2d2d;
+  background-color: #fafafa;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', Georgia, serif;
+  font-weight: 700;
+  color: #1e3a5f;
+  line-height: 1.3;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.5rem; }
+
+/* Navigation */
+.navbar {
+  background-color: #ffffff !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar-nav .nav-link {
+  color: #2d2d2d !important;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 0.5rem 1rem !important;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #c17767 !important;
+}
+
+.navbar-brand {
+  font-family: 'Merriweather', serif;
+  font-size: 1.3rem !important;
+  font-weight: 700;
+  color: #1e3a5f !important;
+}
+
+/* Remove sidebar, use full width */
+.article-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+}
+
+/* Hero/About section improvements */
+.home-section {
+  padding: 4rem 0;
+}
+
+.home-section:first-of-type {
+  padding-top: 2rem;
+}
+
+.portrait {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto 2rem;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Button styling */
+.btn-outline-primary {
+  color: #1e3a5f;
+  border-color: #1e3a5f;
+}
+
+.btn-outline-primary:hover {
+  background-color: #1e3a5f;
+  border-color: #1e3a5f;
+}
+
+.btn-primary {
+  background-color: #c17767;
+  border-color: #c17767;
+}
+
+.btn-primary:hover {
+  background-color: #a86456;
+  border-color: #a86456;
+}
+
+/* Publication/Research improvements */
+.pub-list-item {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.pub-list-item:last-child {
+  border-bottom: none;
+}
+
+.article-title {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.article-title a {
+  color: #1e3a5f;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.article-title a:hover {
+  color: #c17767;
+}
+
+.article-metadata {
+  font-size: 0.9rem;
+  color: #5a5a5a;
+  margin-bottom: 0.5rem;
+}
+
+/* Links */
+a {
+  color: #c17767;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #8d4d40;
+  text-decoration: underline;
+}
+
+/* Social icons */
+.social-icon {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+  color: #5a5a5a;
+  transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+  color: #c17767;
+}
+
+/* Interests section */
+.interests li {
+  padding: 0.3rem 0;
+  font-size: 1rem;
+}
+
+/* Education section */
+.education .course {
+  margin-bottom: 1rem;
+}
+
+.education .course-degree {
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+.education .course-institution {
+  color: #5a5a5a;
+  font-size: 0.95rem;
+}
+
+/* Improve spacing */
+.section-heading {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+/* Remove excessive padding/margins */
+.wg-about .portrait-title {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.wg-about .portrait-title h2 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.wg-about .portrait-title h3 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: #5a5a5a;
+}
+
+/* Card improvements (if using project cards) */
+.card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+/* Footer */
+.page-footer {
+  background-color: #1e3a5f;
+  color: #ffffff;
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
+
+.page-footer a {
+  color: #ffffff;
+}
+
+.page-footer a:hover {
+  color: #c17767;
+}
+
+/* Additional spacing and layout refinements */
+.container {
+  max-width: 1200px;
+}
+
+/* Publication buttons */
+.btn-links .btn {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+  padding: 0.25rem 0.75rem;
+}
+
+/* Improve readability */
+p {
+  margin-bottom: 1.2rem;
+}
+
+/* Network icons on homepage */
+.network-icon {
+  font-size: 2rem;
+  margin: 0 0.5rem;
+}
