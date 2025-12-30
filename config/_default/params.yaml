@@ -1,26 +1,104 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# Theme Configuration for Modern Academic Look
+# This file goes in: config/_default/params.yaml
 
-# Appearance
-
+# Appearance settings
 appearance:
-  theme_day: mytheme
-  theme_night: mytheme
-  font: rose
-  font_size: xs
-  
+  theme_day: custom  # Use custom theme
+  theme_night: custom
+  font: custom
+  font_size: L
 
-# SEO
+# Font configuration
+font_family:
+  # Headings
+  heading_font: "Merriweather"
+  # Body text
+  body_font: "Inter"
+  # Navigation
+  nav_font: "Inter"
+  # Monospace (for code)
+  mono_font: "JetBrains Mono"
 
+# Google Fonts
+google_fonts: "Merriweather:400,700|Inter:400,500,600,700"
+
+# Site header
+header:
+  navbar:
+    enable: true
+    align: r  # Right align navigation
+    show_logo: true
+    show_language: false
+    show_day_night: false
+    show_search: true
+    highlight_active_link: true
+
+# Contact links (keep your existing ones, just reformatted)
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/camilonim'  # Update with your Twitter
+  - icon: envelope
+    icon_pack: fas
+    name: Email
+    link: 'mailto:camilo.nieto-matiz@utsa.edu'  # Update with your email
+
+# Icon pack for social links
+icon:
+  pack:
+    ai: true
+    fas: true
+    fab: true
+
+# Show related content
+show_related: true
+
+# Reading time
+reading_time: false  # Turn off for publications
+
+# Section pager (navigation between sections)
+section_pager: false
+
+# Sharing options
+sharing: true
+
+# Copyright
+copyright:
+  license:
+    enable: false
+
+# Comments
+comments:
+  provider: ''
+
+# Privacy
+privacy_pack: false
+
+# Site features
+features:
+  syntax_highlighter:
+    enable: false
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/camilonietoma/camilonietom'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle  # circle or square
+
+# Marketing (turn these off)
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'University of Texas at San Antonio'
+    description: 'Political scientist studying violence, state building, and transitional justice in Latin America'
+    twitter: 'camilonim'  # Update this
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -28,89 +106,8 @@ marketing:
     google: ''
     baidu: ''
 
-# Site header
-
-header:
-  navbar:
-    enable: true
-    align: c
-    show_logo: true
-    show_language: false
-    show_day_night: false
-    show_search: true
-    highlight_active_link: true
-
-# Site footer
-
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
-
-# Localization
-
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
-
-# Site features
-
-features:
-  syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: master
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-# Fonts
-
-google_fonts: "Merriweather:400,700|Inter:400,500,600,700"
-
-# Security
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+# Map provider (if you want a map on contact page)
+map:
+  provider: 'mapnik'
+  api_key: ''
+  zoom: 15
