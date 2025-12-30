@@ -8,6 +8,8 @@ appearance:
   font: custom
   font_size: L
 
+plugins_css: ["custom"]
+
 # Font configuration
 font_family:
   # Headings
