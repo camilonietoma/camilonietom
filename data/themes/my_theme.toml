@@ -1,0 +1,23 @@
+# Theme metadata
+name = "my_theme"
+
+[light]
+  # Primary colors
+  primary = "#1e3a5f"  # Deep navy
+  link = "#c17767"     # Terracotta
+  link_hover = "#8d4d40"  # Darker terracotta
+  
+  # Menu
+  menu_primary = "#ffffff"  # White background
+  menu_text = "#2d2d2d"     # Dark text
+  menu_text_active = "#c17767"  # Terracotta active
+  menu_title = "#1e3a5f"    # Navy title
+  
+  # Home sections
+  home_section_odd = "#fafafa"   # Off-white
+  home_section_even = "#ffffff"  # White
+
+[dark]
+  primary = "#c17767"
+  link = "#c17767"
+  link_hover = "#a86456"
