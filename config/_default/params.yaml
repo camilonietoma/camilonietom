@@ -3,9 +3,9 @@
 
 # Appearance settings
 appearance:
-  theme_day: custom  # Use custom theme
-  theme_night: custom
-  font: custom
+  theme_day: minimal  # Use custom theme
+  theme_night: minmal
+  font: minimal
   font_size: L
 
 plugins_css: ["custom"]
