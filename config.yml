@@ -12,25 +12,20 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
+          weight: 1 
+        - name: Work in Progress
+          url: inprogress/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Teaching
+          url: teaching/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: 
-          weight: 6
+    
 
 params:
-    description: "This website hosts"
-    author: Moritz-Maria von Igelfeld
+    description: "Camilo Nieto-Matiz - Assistant Professor in Political Science, UT San Antonio"
+    author: "Camilo Nieto-Matiz"
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -55,7 +50,10 @@ params:
     profileMode:
           enabled: true
           title: Pc
-          subtitle: "I am..."
+          subtitle: "I'm an Assistant Professor in the Department of Political Science at the University of Texas at San Antonio, where I also serve as Assistant Director for The UTSA Center for Public Opinion Research. I am also a Research Affiliate at the Violence and Transitional Justice Lab at Notre Dame's Kellogg Institute.
+
+My research explores political violence, state building, criminal governance, and transitional justice, with a regional focus on Latin America. I investigate why some societies experience major outbreaks of violence, how state institutions and criminal groups operate during periods of conflict, and the mechanisms through which societies address human rights violations and rebuild governance after war"."
+          
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
