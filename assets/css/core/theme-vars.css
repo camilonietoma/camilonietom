@@ -70,3 +70,19 @@ a {
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-heading);
 }
+
+/* Exclude buttons from EB Garamond */
+button,
+.button,
+.buttons a {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* Increase font sizes */
+body {
+    font-size: 19px; /* was 18px in your vars */
+}
+
+.profile .profile_inner .subtitle {
+    font-size: 17px; /* was 16px */
+}
