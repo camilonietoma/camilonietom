@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Camilo Nieto-Matiz
-          subtitle: "I'm"
+          subtitle: "I'm an Assistant Professor in the Department of Political Science at the University of Texas at San Antonio. My research examines political violence, criminal governance, and the uneven presence of state institutions in Latin America. In many countries across the region, state authority operates alongside—and often in collusion with—violent groups ranging from insurgencies and paramilitaries to street gangs and drug cartels. I investigate why some societies experience major outbreaks of violence, how state institutions and armed actors interact during periods of conflict, and the political legacies of violence for governance and democracy"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
