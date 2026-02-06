@@ -54,7 +54,16 @@
     background: var(--theme);
 }
 
-body {
+body,
+.profile .profile_inner h1,
+.profile .profile_inner .subtitle,
+.main,
+.post-content,
+.post-title,
+.post-description,
+p,
+li,
+a {
     font-family: var(--font-body);
 }
 
