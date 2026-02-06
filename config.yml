@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Camilo Nieto-Matiz
-          subtitle: "Hello! This is .
+          subtitle: "I'm an Assistant Professor in the Department of Political Science at the University of Texas at San Antonio.
 
      <br><br>
      My research projects  .
@@ -63,7 +63,10 @@ params:
 
      <br> <br>
 
-     Thank you for visitng my webpage!
+     **Education**<br>
+      • Ph.D. in Political Science, University of Notre Dame, 2020<br> 
+      • M.A. in Public Policy, Universität Erfurt, 2013<br> 
+      • B.A. in Political Science, Pontificia Universidad Javeriana, 2009
      "
           imageUrl: "picture.jpeg"
           imageWidth: 160
