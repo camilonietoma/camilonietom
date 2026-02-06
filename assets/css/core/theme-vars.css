@@ -92,21 +92,6 @@ body {
     font-size: 17px;
 }
 
-/* Hover highlight for research items and course items */
-.post-entry:hover,
-.course-item:hover,
-article:hover {
-    background: color-mix(in srgb, #6b8e23 10%, transparent);
-    transition: background 0.2s ease;
-}
-
-/* Dark mode version */
-body.dark .post-entry:hover,
-body.dark .course-item:hover,
-body.dark article:hover {
-    background: color-mix(in srgb, #9acd32 12%, transparent);
-}
-
 .profile-image img {
     border-radius: 12px !important;
 }
