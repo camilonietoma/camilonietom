@@ -106,3 +106,7 @@ body.dark .course-item:hover,
 body.dark article:hover {
     background: color-mix(in srgb, #9acd32 12%, transparent);
 }
+
+.profile-image img {
+    border-radius: 12px !important;
+}
