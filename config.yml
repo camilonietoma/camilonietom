@@ -72,9 +72,9 @@ params:
       • M.A. in Public Policy, Universität Erfurt, 2013<br> 
       • B.A. in Political Science, Pontificia Universidad Javeriana, 2009
      "
-          imageUrl: "profile.jpeg"
-          imageWidth: 220
-          imageHeight: 220
+          imageUrl: "picture.jpeg"
+          imageWidth: 170
+          imageHeight: 170
           buttons:
             - name: Research
               url: research/
