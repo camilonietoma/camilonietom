@@ -65,6 +65,7 @@ params:
 
      Thank you for visitng my webpage!
      "
+          imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -72,6 +73,8 @@ params:
               url: research/
             - name: Teaching
               url: teaching/
+            - name: Data
+              url: data/
             
 
     socialIcons:
