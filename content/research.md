@@ -15,7 +15,7 @@ Campos, Juan Felipe, Camilo Nieto-Matiz, and Luis Schenoni. 2025. "Spraying Conf
 
 Arce, Moisés, and Camilo Nieto-Matiz. 2024. "Mining and Violence in Latin America: The State's Coercive Responses to Anti-Mining Resistance." *World Development* 173(1). [DOI](https://doi.org/10.1016/j.worlddev.2023.106404)
 
-Nieto-Matiz, Camilo, and Natán Skigin. 2023. "Why Programmatic Parties Reduce Criminal Violence: Theory and Evidence from Brazil." *Research & Politics* 10(1). [DOI](https://doi.org/10.1177/20531680231163515)\
+Nieto-Matiz, Camilo, and Natán Skigin. 2023. "Why Programmatic Parties Reduce Criminal Violence: Theory and Evidence from Brazil." *Research & Politics* 10(1). [DOI](https://doi.org/10.1177/20531680231163515)
 
 
 Nieto-Matiz, Camilo. 2023. "When the State Becomes Complicit: Mayors, Criminal Actors, and the Deliberate Weakening of the Local State in Colombia." *Comparative Political Studies* 56(9): 1295–1327. [DOI](https://doi.org/10.1177/00104140221139380)
