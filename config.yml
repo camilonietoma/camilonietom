@@ -50,9 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Pc
-          subtitle: "I'm an Assistant Professor in the Department of Political Science at the University of Texas at San Antonio, where I also serve as Assistant Director for The UTSA Center for Public Opinion Research. I am also a Research Affiliate at the Violence and Transitional Justice Lab at Notre Dame's Kellogg Institute.
-
-My research explores political violence, state building, criminal governance, and transitional justice, with a regional focus on Latin America. I investigate why some societies experience major outbreaks of violence, how state institutions and criminal groups operate during periods of conflict, and the mechanisms through which societies address human rights violations and rebuild governance after war"."
+          subtitle: "ough which societies address human rights violations and rebuild governance after war"
           
           imageUrl: "picture.jpeg"
           imageWidth: 160
